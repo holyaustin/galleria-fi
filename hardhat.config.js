@@ -21,13 +21,13 @@ module.exports = {
   solidity: "0.8.20",
   networks: {
     testnet: {
-      url: "https://testnet.telos.net/evm",
+      url: "https://data-seed-prebsc-1-s3.binance.org:8545/",
       accounts: [process.env.ACCOUNT_PRIVATE_KEY],
       //gasPrice: 35000000000,
       saveDeployments: true,
     },
     mainnet: {
-      url: "https://mainnet.telos.net/evm",
+      url: "https://bsc-dataseed1.binance.org/",
       accounts: [process.env.ACCOUNT_PRIVATE_KEY],
       gasPrice: 35000000000,
       saveDeployments: true,

@@ -34,15 +34,15 @@ twitter (X) : @holyaustin
 
 <https://youtu.be/Ti4RCKNeKuA> 
 
-Twitter : https://twitter.com/holyaustin/status/1725279408573862228
+Twitter : https://twitter.com/holyaustin/status/1764812050184786130
 
 ### 6. The contract address(es) or website URLs of your deployed application, either on a testnet of your choice or mainnet of a platform of choice
 
-<https://testnet.teloscan.io/address/0xc9637cB5e3EbAEE5124Daa92EA4Fee1Bd37B71FD>
+<https://testnet.bscscan.com/address/0x5f04718FD5A7a499a0d6a95A5861a8648f160122>
 
-<https://testnet.teloscan.io/address/0x7064f88f4840588b78014d6d3f4556FAAdF20893>
+<https://testnet.bscscan.com/address/0xA2F763342Bc9dfa21471C24496a700DB61D8Cde4>
 
-<https://testnet.teloscan.io/address/0xEA9113F3DCAf50541092847095112E76Ba6ceC05>
+<https://testnet.bscscan.com/address/0xD2D6181276c608ca5208955fb68D27332ccCD264>
 
 
 ## Tech Stack Used

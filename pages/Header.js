@@ -12,14 +12,14 @@ const Header = () => {
           <div className="a4 ak lg:a1T/2">
 
               <h1 className="font-bold mb-6 text-center text-5xl dark:text-white md:text-left lg:text-6xl xl:text-7xl pb-2">
-               African Museum meets the Metaverse {' '}
+               African Museum meets the SocialFi{' '}
                 <span className="text-orange-200 font-thin font-coiny underline decoration-wavy">
                   mint
                 </span>{' '}
                 you digital collectibles today.
               </h1>
               <p className="a2e a1Q a1o a3c a1t md:a3d">
-              Galleria is the first African web3 Museum project on Blockchain. We shall be taking you through series of African heritage as you journey with us in this adventure and the best part is that you shall be collecting your digital collectibles as you tour. Enjoy tourism the African way.
+              Galleria is the first African web3 Museum + SocialFi project on Blockchain. We shall be taking you through series of African heritage as you journey with us in this adventure and the best part is that you shall be collecting your digital collectibles as you tour. Enjoy tourism the African way.
               </p>
               <div className="flex flex-wrap items-center">
 
