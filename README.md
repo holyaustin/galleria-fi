@@ -1,4 +1,6 @@
-# Galleria - First African SocialFi Museum tourism for preserving the African heritage through story telling
+# Galleria-Fi : First African SocialFi Museum tourism for preserving the African heritage through story telling
+
+### BNBChain Hackathon Project: Building Smart and Fully-On-Chain Applications
 
 ## Introduction
 
