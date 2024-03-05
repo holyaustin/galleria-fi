@@ -8,7 +8,7 @@
 
 ### 1. Project / Team name
 
-Galleria
+Galleria-fi
 
 ### 2. Short description about the project
 
@@ -26,9 +26,9 @@ twitter (X) : @holyaustin
 
 ### 4. Repository with project’s code and demo site
 
-<https://github.com/holyaustin/galleria>
+<https://github.com/holyaustin/galleria-fi>
 
-<https://galleria-museum.vercel.app/>
+<https://galleria-fi.vercel.app/>
 
 ### 5. Video demo (90 seconds) and/or Presentation (10 slides max)
 
@@ -51,7 +51,7 @@ Client: Next.js, TailwindCSS, web3.js
 
 web3:  Hardhat, ethers.js, IPFS / Filecoin, XMTP
 
-BlockChain: Telos Testnet
+BlockChain: BSC Testnet
 
 ## To run the dapp Locally
 
@@ -65,12 +65,8 @@ BlockChain: Telos Testnet
 
 ### npm run dev
 
-Deploying on Base Mainnet
-When you are done with making changes and your minting dapp is just as you wanted it is time to deploy on ethereum mainnet. To do that;
+Deploying on BSC Testnet / Mainnet
 
-Make sure you changed all env variables with yours. And also for the network you need to chose ethereum mainnet.
-Update hardhat.config.js so that as network option you use mainnet not rtestnet. hardhat
-While deploying your contract with hardhat you need to use mainnet as network-name
 
 # This command will deploy your smart contract on base testnet
 
