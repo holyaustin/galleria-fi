@@ -51,7 +51,7 @@ export default function ViewFile() {
   async function Next() {
     router.push("/page2");
   }
-  const rpcUrl = "https://testnet.telos.net/evm";
+  const rpcUrl = "https://data-seed-prebsc-1-s3.binance.org:8545/";
    // const rpcUrl = "localhost";
 
    const { query: id } = router; 

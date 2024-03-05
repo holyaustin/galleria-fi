@@ -200,20 +200,20 @@ const Footer = () => {
               </button>
             </form>
             <p className="font-body text-sm text-blueGray-600">
-              Your privacy protected! We dont disclose Email.
+              Your privacy protected! We don't disclose your data.
             </p>
           </div>
         </div>
         <div className="lg:text-center mt-8 lg:mt-14">
           <p className="font-body text-sm text-blueGray-600">
-            © <span id="spanYear">2023</span> Galleria - All Rights Reserved by{' '}
+            © <span id="spanYear">2024</span> Galleria - All Rights Reserved by{' '}
             <a
               href="https://twitter.com/holyaustin"
               className="text-indigo-500 underline-hover"
               rel="noopener"
               target="_blank"
             >
-              Galleria Digital Museum
+              Galleria-Fi Digital Museum
             </a>
           </p>
         </div>

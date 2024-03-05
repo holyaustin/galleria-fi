@@ -1,4 +1,4 @@
-# Galleria - First African MSocialFi Museum tourism for preserving the African heritage through story telling
+# Galleria - First African SocialFi Museum tourism for preserving the African heritage through story telling
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Galleria-fi
 
 ### 2. Short description about the project
 
-Galleria - First African web3 Museum for preserving the African heritage through story telling, As we intend to onboard more web3 users, it is pertinent that the tourism industry of Africa be digitalized. This project seek to bring the blockchain technology into the African tourism (museum) Space. Users from all around the world can tour some of the African heritage without leaving the shores of their country through the power of metaverse. They also buy collectibles as proof of their visit.
+Galleria - First African web3 Museum for preserving the African heritage through story telling, As we intend to onboard more web3 users, it is pertinent that the tourism industry of Africa be digitalized. This project seek to bring the blockchain technology into the African tourism (museum) Space. Users from all around the world can tour some of the African heritage without leaving the shores of their country through the power of metaverse. They also buy collectibles as proof of their visit. They socialize through the XMTP chat. Tourist can collect and share their collectibles with others.
 
 ### 3. Discord and Telegram username for the team’s person of contact
 
@@ -68,7 +68,7 @@ BlockChain: BSC Testnet
 Deploying on BSC Testnet / Mainnet
 
 
-# This command will deploy your smart contract on base testnet
+# This command will deploy your smart contract on BSC testnet
 
   npx hardhat run scripts/deploy.js --network testnet
 
